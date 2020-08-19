@@ -1,0 +1,9 @@
+{
+    "DevSets":{
+        "use_syns_output":1
+    },
+     "OriginalIntent":{
+        "name": "Test",
+        "samples": ["scrivi questo"]
+    }
+}
